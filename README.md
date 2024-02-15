@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm Santosh Ganji
 
 
-  🌟 I'm a frontend developer with 2 years of experience in React.js.</br>
+ <li> 🌟 I'm a frontend developer with 2 years of experience in React.js.</br></li>
   
   🌱 Currently, I'm focusing on learning Next.js to enhance my skills and build more robust web applications.</br>
   
